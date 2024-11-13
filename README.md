@@ -1,6 +1,6 @@
 # SmartFare-Comparision-App
 
-- OLUBER is a price comparison app used to compare UBER and OLA prices dynamically.
+- SMART-FARE is a price comparison app used to compare UBER and OLA prices dynamically.
 - The Uber-Ola Comparison App is a mobile application designed to compare ride fares between Uber and Ola.
 - This helps users make an informed decision when booking a ride. The app provides real-time data and a seamless user experience.
 - Right now it is in Proto Type stage with basic functionality.
